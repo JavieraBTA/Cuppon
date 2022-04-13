@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-title {
+    font-weight: 300 ;
+    color: #212529;
+    font-size: 1.25rem;
+    font-family: 'Roboto', sans-serif;
+}
+.card-text {
+    font-weight: 300;
+    color: #707070;
+    font-size: 1rem;
+}
+.fa-solid {
+    font-size: 0.625rem;
+    display: inline;
+}
+.card-subtitulo {
+    font-weight: 300;
+    color: #707070;
+    font-size: 0.8438rem;
+    display: inline-block;
+}
+.precio-normal{
+    display: inline-block;
+    font-weight: 300;
+}
+.precio-oferta {
+    display: inline-block;
+    color: #28A745;
+}
+h2 {
+    font-size: 1.3125rem;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+#inputNombre {
+    font-weight: 300;
+    color: #707070;
+}
+#inputCorreo {
+    font-weight: 300;
+    color: #707070;
+}
+footer {
+    font-weight: 300;
+    color: #707070;
+}
